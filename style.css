@@ -151,6 +151,8 @@
 }
 
 .second{
+    animation: none;
+    opacity: 100;
     padding: 8vh 0 5vh;
 }
 
