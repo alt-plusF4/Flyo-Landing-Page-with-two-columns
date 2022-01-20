@@ -58,7 +58,7 @@
 }
 
 #illustration-1{
-    animation: logo 200ms ease-in 600ms normal forwards;
+    animation: logo 300ms ease-in 600ms normal forwards;
     float: right;
     height: 48%;
     left: 0;
@@ -73,7 +73,7 @@
 }
 
 .heading-main{
-    animation: h1 200ms ease-in-out 600ms normal forwards;
+    animation: h1 300ms ease-in-out 600ms normal forwards;
     font-family: 'Raleway', sans-serif;
     font-size: 2.5rem;
     line-height: 1.5;
@@ -151,8 +151,8 @@
 }
 
 .second{
-    animation: none;
-    opacity: 100;
+    animation: unset;
+    opacity: 100%;
     padding: 8vh 0 5vh;
 }
 
